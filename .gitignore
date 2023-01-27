@@ -1,6 +1,6 @@
 # Ignore Data folder
 Data/
-
+Data2/
 # Ignore notebook side files
 notebook_audio/.ipynb_checkpoints
 
